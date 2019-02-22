@@ -30,8 +30,8 @@
 
 ## Defined parameters
 param(
-[string]$inputfilename="C:\automatesamples\AMSeleniumPs\StockPrices.csv",
-[string]$outputfilename="c:\automatetemp\tickeroutput.txt",
+[string]$inputfilename="C:\temp\AMSeleniumPs\StockPrices.csv",
+[string]$outputfilename="c:\temp\tickeroutput.txt",
 [string]$ExitType="ENVIRONMENT"
 )
 
